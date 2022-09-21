@@ -1,0 +1,60 @@
+#main{
+    width: 100%;
+    width: 70vh;
+    background-color:;
+}
+.page {
+    width: 100%;
+    height: 80vh;
+    background-color: rgba(128, 128, 128, 0.042);
+    margin-left: 85%;
+    margin-top: 20%;
+    border-radius: 20px;
+}
+.page h2 {
+    color: blue;
+    text-align: center;
+    padding-top: 15px;
+    
+}
+.page input {
+    margin-left: 10px;
+    padding: 10px;
+    width: 90%;
+    border-style: none;
+    margin-bottom: 40px;
+}
+.btn {    margin-left: 12px;
+    padding: 10px;
+    width: 94%;
+    border-style: none;
+    margin-bottom: 40px;
+    background-color: blue;
+    color: white;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.page a {
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 35%;
+}
+.page p {
+   padding-top: 50px;
+   text-align: center;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.create {  padding: 10px;
+    margin-left: 23%;
+    width: 54%;
+    background-color: green;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-style: none;
+    border-radius: 8px;
+    margin-top: 20px;
+    cursor: pointer;
+    
+}
+
+
